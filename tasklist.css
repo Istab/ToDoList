@@ -1,0 +1,20 @@
+.tasklist {
+	margin: 10px;
+}
+.list {
+	margin: 10px;
+	padding: 10px;
+	border: solid 1px black;
+}
+
+.listItem {
+	display: inline-grid;
+    background-color: beige;
+    width: 100px;
+    margin: 5px;
+	height: 120px;
+}
+.listItem>input {
+    margin: 2px;
+	height: 20px;
+}

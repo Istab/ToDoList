@@ -12,6 +12,7 @@ class App extends Component {
           <h2><span className='red-text'>IST</span>oDo</h2>
 		  <h4>By Istabraq Almusally</h4>
         </div>
+        <Tasklist name="My To-Do List"/>
       </div>
     );
   }
